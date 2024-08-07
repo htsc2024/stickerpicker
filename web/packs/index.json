@@ -1,6 +1,7 @@
 {
   "packs": [
-    "test.json"
+    "test.json",
+    "frog_1.json"
   ],
-  "homeserver_url": "https://matrix.org"
+  "homeserver_url": "https://matrix.htigroup.vn"
 }
