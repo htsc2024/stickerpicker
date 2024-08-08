@@ -11,7 +11,9 @@
     "line.json",
     "pack3.json",
     "pack1.json",
-    "Popo.json"
+    "Popo.json",
+    "pig_1.json",
+    "pig_2.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
