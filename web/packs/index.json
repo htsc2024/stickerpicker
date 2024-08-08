@@ -1,8 +1,16 @@
 {
   "packs": [
     "test.json",
+    "emotes.json",
+    "frog.json",
     "frog_1.json",
-    "frog_2.json"
+    "frog_2.json",
+    "meme_team_design.json",
+    "dog_shiba.json",
+    "meomeo.json",
+    "line.json",
+    "pack3.json",
+    "pack1.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
