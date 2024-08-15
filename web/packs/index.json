@@ -14,7 +14,11 @@
     "pig_2.json",
     "Imgur_Album_Akio.json",
     "pepe_ver_3.json",
-    "Qoobee.json"
+    "Qoobee.json",
+    "Ami_ver_1.json",
+    "Ami_ver_2.json",
+    "Peepo_ver_1.json",
+    "Peepo_ver_2.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
