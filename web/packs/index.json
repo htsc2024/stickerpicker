@@ -3,8 +3,6 @@
     "test.json",
     "emotes.json",
     "frog.json",
-    "frog_1.json",
-    "frog_2.json",
     "meme_team_design.json",
     "dog_shiba.json",
     "meomeo.json",
@@ -14,7 +12,9 @@
     "Popo.json",
     "pig_1.json",
     "pig_2.json",
-    "Imgur_Album_Akio.json"
+    "Imgur_Album_Akio.json",
+    "pepe_ver_3.json",
+    "Qoobee.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
