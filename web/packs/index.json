@@ -1,24 +1,21 @@
 {
   "packs": [
-    "test.json",
-    "emotes.json",
-    "frog.json",
-    "meme_team_design.json",
-    "dog_shiba.json",
-    "meomeo.json",
-    "line.json",
-    "pack3.json",
-    "pack1.json",
-    "Popo.json",
-    "pig_1.json",
-    "pig_2.json",
+    "Qoobee.json",
     "Imgur_Album_Akio.json",
     "pepe_ver_3.json",
-    "Qoobee.json",
     "Ami_ver_1.json",
     "Ami_ver_2.json",
     "Peepo_ver_1.json",
-    "Peepo_ver_2.json"
+    "Peepo_ver_2.json",
+    "pig_1.json",
+    "pig_2.json",
+    "test.json",
+    "emotes.json",
+    "Popo.json",
+    "frog.json",
+    "meme_team_design.json",
+    "dog_shiba.json",
+    "pack3.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
