@@ -193,25 +193,6 @@
             "id": "sha256:c686654bf963660eb19391d561ffe56938f08bfdc0ccbf47f70ab489899423d1"
         },
         {
-            "body": "sticker_2618e8d0-92ec-42ac-b3e2-9d05c4ef71c9",
-            "url": "mxc://htigroup/DIqZvvwQTaiFBVLWdPvEMpAb",
-            "info": {
-                "w": 128,
-                "h": 128,
-                "size": 14580,
-                "mimetype": "image/gif",
-                "thumbnail_url": "mxc://htigroup/DIqZvvwQTaiFBVLWdPvEMpAb",
-                "thumbnail_info": {
-                    "w": 128,
-                    "h": 128,
-                    "size": 14580,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:0d44fe39b6c9f08405afa825206bbeb88113691cff6ea9052fe557ceadb1aff5"
-        },
-        {
             "body": "sticker_267f17be-86c1-4a15-ba98-7b9c9cbac215",
             "url": "mxc://htigroup/QEWvapZhhLMkFqDbfJaZBSrZ",
             "info": {
@@ -1084,25 +1065,6 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:5b4e07fe48b62e379907bcd1c0da3063b496a5b31fc80ce06117afdad0a88528"
-        },
-        {
-            "body": "sticker_d8eee722-e96e-4f1f-8cc0-a5ae9a5bac77",
-            "url": "mxc://htigroup/eJflELNDLmryUISKGYvDlyFL",
-            "info": {
-                "w": 128,
-                "h": 128,
-                "size": 32730,
-                "mimetype": "image/gif",
-                "thumbnail_url": "mxc://htigroup/eJflELNDLmryUISKGYvDlyFL",
-                "thumbnail_info": {
-                    "w": 128,
-                    "h": 128,
-                    "size": 32730,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:547ab436fa2ddc4489afebb416b9017a5982e12267a8c013fc8e4ccecbb5255a"
         },
         {
             "body": "sticker_da59a758-e626-4ffe-8afc-a2d065ed9e4d",
