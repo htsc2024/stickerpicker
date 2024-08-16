@@ -7,8 +7,6 @@
     "Peepo_ver_1.json",
     "Peepo_ver_2.json",
     "pepe_ver_3.json",
-    "pig_1.json",
-    "pig_2.json",
     "Usagyuuun.json",
     "Usagyuuun_v2.json",
     "emotes.json",
@@ -16,7 +14,9 @@
     "frog.json",
     "meme_team_design.json",
     "dog_shiba.json",
-    "pack3.json"
+    "pack3.json",
+    "Pig_Vip_pro_ver_2.json",
+    "Pig_Vip_pro.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
