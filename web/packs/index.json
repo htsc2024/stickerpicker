@@ -1,23 +1,23 @@
 {
   "packs": [
+    "Pig_Vip_pro_ver_2.json",
+    "Pig_Vip_pro.json",
+    "Quby.json",
     "Qoobee.json",
     "Imgur_Album_Akio.json",
     "Ami_ver_1.json",
     "Ami_ver_2.json",
+    "Usagyuuun.json",
+    "Usagyuuun_v2.json",
     "Peepo_ver_1.json",
     "Peepo_ver_2.json",
     "pepe_ver_3.json",
-    "Usagyuuun.json",
-    "Usagyuuun_v2.json",
     "emotes.json",
     "Popo.json",
     "frog.json",
     "meme_team_design.json",
     "dog_shiba.json",
-    "pack3.json",
-    "Pig_Vip_pro_ver_2.json",
-    "Pig_Vip_pro.json",
-    "Quby.json"
+    "pack3.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
