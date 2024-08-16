@@ -991,25 +991,6 @@
             "id": "sha256:1ccfc970fc3f51b71e90fc2f76a069eddd1b886ee1bc69bead0467456a02538b"
         },
         {
-            "body": "tkthao219-quby (3)",
-            "url": "mxc://htigroup/PqonnrZTBDCEcPrYvusPmYne",
-            "info": {
-                "w": 237,
-                "h": 238,
-                "size": 760925,
-                "mimetype": "image/gif",
-                "thumbnail_url": "mxc://htigroup/PqonnrZTBDCEcPrYvusPmYne",
-                "thumbnail_info": {
-                    "w": 237,
-                    "h": 238,
-                    "size": 760925,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:58b8616c4eea6ab5996b56ed43d85814eb8bbdd42609a5a985c891f61bf9279c"
-        },
-        {
             "body": "tkthao219-quby (30)",
             "url": "mxc://htigroup/EBePiPArOjlDDBnwpZXThnvU",
             "info": {
