@@ -56,7 +56,7 @@ class App extends Component {
 			packs: defaultState.packs,
 			loading: true,
 			error: null,
-			stickersPerRow: parseInt(localStorage.mauStickersPerRow || "4"),
+			stickersPerRow: parseInt(localStorage.mauStickersPerRow || "5"),
 			theme: localStorage.mauStickerThemeOverride || this.defaultTheme,
 			frequentlyUsed: {
 				id: "frequently-used",
