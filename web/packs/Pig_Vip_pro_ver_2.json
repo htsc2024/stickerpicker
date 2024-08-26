@@ -1350,25 +1350,6 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:c686654bf963660eb19391d561ffe56938f08bfdc0ccbf47f70ab489899423d1"
-        },
-        {
-            "body": "sticker_fd5b6940-ec10-4437-bc95-12e8ffc36f2f",
-            "url": "mxc://htigroup/JiSlCpCnJSWbPrILfWothlgr",
-            "info": {
-                "w": 128,
-                "h": 128,
-                "size": 3062,
-                "mimetype": "image/gif",
-                "thumbnail_url": "mxc://htigroup/JiSlCpCnJSWbPrILfWothlgr",
-                "thumbnail_info": {
-                    "w": 128,
-                    "h": 128,
-                    "size": 3062,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:267dbeb5a7ae84acfc76cdbb5416a9ccff107c90466d3c46368cb50186b5e70e"
         }
     ]
 }
