@@ -17,7 +17,8 @@
     "frog.json",
     "meme_team_design.json",
     "dog_shiba.json",
-    "pack3.json"
+    "pack3.json",
+    "sticker_text.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
