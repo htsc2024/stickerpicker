@@ -3,6 +3,7 @@
     "Pig_Vip_pro.json",
     "Pig_Vip_pro_ver_2.json",
     "Quby.json",
+    "cubigator.json",
     "Qoobee.json",
     "Imgur_Album_Akio.json",
     "Ami_ver_1.json",
@@ -18,8 +19,7 @@
     "meme_team_design.json",
     "dog_shiba.json",
     "pack3.json",
-    "sticker_text.json",
-    "cubigator.json"
+    "sticker_text.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
